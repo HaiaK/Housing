@@ -4,9 +4,8 @@ Applied Data Science final project
 
 by:
 
-Haia Khoury - haiakhoury0@gmail.com
-
-Oz Pirvandy - pirvandy@gmail.com
+- Haia Khoury - haiakhoury0@gmail.com
+- Oz Pirvandy - pirvandy@gmail.com
 
 
 ### Project Description
@@ -14,17 +13,15 @@ Oz Pirvandy - pirvandy@gmail.com
 Our goal is to predict the final price of houses when 79 explanatory variables describing almost every aspect of residential homes in Ames, Iowa.
 
 
+
 ### File Descriptions
 
-train.csv - the training set
+- train.csv - the training set
+- test.csv - the test set
+- data_description.txt - full description of each column, originally prepared by Dean De Cock but lightly edited to match the column names used here
+- Our_Prediction.csv - our prediction for the SalePrice variable for every Id in the test data set 
+- HousePricing.ipynb - a jupyter* notebook documents all the analysis steps and results including tables, graphs and the prediction results
 
-test.csv - the test set
-
-data_description.txt - full description of each column, originally prepared by Dean De Cock but lightly edited to match the column names used here
-
-Our_Prediction.csv - our prediction for the SalePrice variable for every Id in the test data set 
-
-HousePricing.ipynb - a jupyter* notebook documents all the analysis steps and results including tables, graphs and the prediction results
 
 
 *Jupyter - an open-source web application notebook
