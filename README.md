@@ -111,3 +111,7 @@ Here's a brief version of what you'll find in the data description file.
 * YrSold: Year Sold
 * SaleType: Type of sale
 * SaleCondition: Condition of sale
+
+
+
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques
